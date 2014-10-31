@@ -1,0 +1,12 @@
+{
+  "name": "async-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "async": "^0.9.0"
+  }
+}
